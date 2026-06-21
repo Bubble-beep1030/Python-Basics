@@ -27,3 +27,4 @@ hello.py
 - Git Basics ✅
 - GitHub Basics ✅
 - VS Code Integration ✅
+- Branching In Progress 🚀
