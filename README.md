@@ -1,16 +1,23 @@
-# Python Basics
-
-This repository contains my Python learning journey.
-
-## Topics Covered
-
-- Variables
-- Data Types
-- Loops
-- Functions
-- OOP
-- File Handling
-
 ## Programs
 
-- hello.py
+```text
+01_Variables/
+    variables.py
+
+02_Conditions/
+    conditions.py
+
+03_Loops/
+    loops.py
+
+04_Lists/
+    lists.py
+
+05_Dictionaries/
+    dictionary.py
+
+06_Functions/
+    functions.py
+
+hello.py
+```
