@@ -21,3 +21,9 @@
 
 hello.py
 ```
+
+## Learning Progress
+
+- Git Basics ✅
+- GitHub Basics ✅
+- VS Code Integration ✅
